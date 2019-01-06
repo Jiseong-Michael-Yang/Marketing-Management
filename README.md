@@ -118,5 +118,22 @@ A marketing project in Marketing Management (Fall 2018)
 
 
 ## 5. Recommendations
-to be posted...
 
+### Short Life Cycle of Products
+
+* Short life cycle limits the supply, leading to the price rise.
+* Highly set product price in the second-hand market would affect the release price. 
+
+### More Effective and Efficient Advertisement
+
+* Nearly 13 million users has liked Lego's Facebook page.
+* The 'likes' of each advertisement posting is comparatively very low.
+* The advertisements are not regarded relevant to the viewers. 
+
+### Reduction in the Licensed Sets
+
+* Licensing is the major factor for the pricing.
+* Reducing the liscensed set would help to lower the price.
+
+### More Sales
+* Lego needs to roll out more sales promotions which are comparatively weak than its competitors such as Sonogong and Oxford.
