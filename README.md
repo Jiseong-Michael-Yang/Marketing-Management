@@ -4,7 +4,6 @@ A marketing project in Marketing Management (Fall 2018)
 ## 1. Introduction
 
 ### About Lego
-
 <center>
 <img src = https://user-images.githubusercontent.com/46237445/50734416-3e7a6300-11e2-11e9-9b51-867c630228af.png width = 100>
 </center>
@@ -12,7 +11,9 @@ A marketing project in Marketing Management (Fall 2018)
 * Danish toy production company based in Billund
 * Best known for the manufacture of Lego-brand toys.
 * Sharp decrease in revenue and massive lay-off in 2017 due to the game industry's domination of the market.
+
 ![image](https://user-images.githubusercontent.com/46237445/50734866-eeeb6580-11e8-11e9-97c3-dfe2ca3e6fb4.png)
+
 * Despite the decline, the financial state of the company is still robust, which implies the need of improvement in its marketing strategy. 
 
 ### Kidults
@@ -63,23 +64,59 @@ A marketing project in Marketing Management (Fall 2018)
     * Price: high vs. low
     * Purpose: educational vs. entertaining
     * Popularity: high vs. low  
-![image](https://user-images.githubusercontent.com/46237445/50739062-dcd7ea00-121d-11e9-8b68-570bcf0dc764.png)
+<center>
+<img src = https://user-images.githubusercontent.com/46237445/50739062-dcd7ea00-121d-11e9-8b68-570bcf0dc764.png width = 300>
+</center>
 
 ### Positioning by Features
 * Popularity vs. Purpose
     <center>
     <img src = https://user-images.githubusercontent.com/46237445/50739092-6687b780-121e-11e9-9567-6a64bd6e9769.png width = 250>
     </center>
-* Price vs. Purpose  
+    
+    * **Toy** and **game** companies are clearly distinguished from teaching material companies
+    * **Teaching material** companies are well-known in the market. 
+    * Lego has the **hig
+    heset** brand perception among all other firms. 
+* Price vs. Purpose
     <center>
     <img src = https://user-images.githubusercontent.com/46237445/50739094-6a1b3e80-121e-11e9-83ac-3295b28db873.png width = 250>
     </center>
+
+    * The price of Lego's product is perceived to be very high.
+    * Lego is obviously categorized as a toy company.
+
 * Popularity vs. Purpose
     <center>
     <img src = https://user-images.githubusercontent.com/46237445/50739095-6d162f00-121e-11e9-87b1-a60ae824054a.png width = 250>
     </center>
+    
+    * Lego score the **highest** both in the popularity and price.
+
+### Insights
+* Lego is perceived as a **well-known** known company that manufactures **expensive toys**.
+* Lego has undoubtedly a strong brand power
+* Repositioning or extending to a teaching material manufacturer will result in severe competition.
+* Price may need some adjustment. 
 
 ## 4. 4P Analysis
 
+### Product
+![30](https://user-images.githubusercontent.com/46237445/50741977-597fbe00-1248-11e9-813e-a9b1f51dd378.JPG)
+
+### Price
+![31](https://user-images.githubusercontent.com/46237445/50741978-597fbe00-1248-11e9-9a37-a3dffcec2370.JPG)
+
+### Place
+![32](https://user-images.githubusercontent.com/46237445/50741979-5a185480-1248-11e9-9e43-1b6d7d6ce98d.JPG)
+
+### Promotion
+![33](https://user-images.githubusercontent.com/46237445/50741980-5a185480-1248-11e9-8f33-8cfa5f045ef9.JPG)
+
+### Overview and Overall
+![34](https://user-images.githubusercontent.com/46237445/50741981-5a185480-1248-11e9-8568-78075d90ae1f.JPG)
+
+
 ## 5. Recommendations
+to be posted...
 
