@@ -102,20 +102,29 @@ A marketing project in Marketing Management (Fall 2018)
 ## 4. 4P Analysis
 
 ### Product
-![30](https://user-images.githubusercontent.com/46237445/50741977-597fbe00-1248-11e9-813e-a9b1f51dd378.JPG)
+<center>
+<img src = https://user-images.githubusercontent.com/46237445/50741977-597fbe00-1248-11e9-813e-a9b1f51dd378.JPG width = 400>
+</center>
 
 ### Price
-![31](https://user-images.githubusercontent.com/46237445/50741978-597fbe00-1248-11e9-9a37-a3dffcec2370.JPG)
+<center>
+<img src = https://user-images.githubusercontent.com/46237445/50741978-597fbe00-1248-11e9-9a37-a3dffcec2370.JPG width = 400>
+</center>
 
 ### Place
-![32](https://user-images.githubusercontent.com/46237445/50741979-5a185480-1248-11e9-9e43-1b6d7d6ce98d.JPG)
+<center>
+<img src = https://user-images.githubusercontent.com/46237445/50741979-5a185480-1248-11e9-9e43-1b6d7d6ce98d.JPG width = 400>
+</center>
 
 ### Promotion
-![33](https://user-images.githubusercontent.com/46237445/50741980-5a185480-1248-11e9-8f33-8cfa5f045ef9.JPG)
+<center>
+<img src = https://user-images.githubusercontent.com/46237445/50741980-5a185480-1248-11e9-8f33-8cfa5f045ef9.JPG width = 400>
+</center>
 
 ### Overview and Overall
-![34](https://user-images.githubusercontent.com/46237445/50741981-5a185480-1248-11e9-8568-78075d90ae1f.JPG)
-
+<center>
+<img src = https://user-images.githubusercontent.com/46237445/50741981-5a185480-1248-11e9-8568-78075d90ae1f.JPG width = 400>
+</center>
 
 ## 5. Recommendations
 
